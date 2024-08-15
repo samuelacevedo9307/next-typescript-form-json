@@ -1,0 +1,12 @@
+{
+    "posts": [
+    {
+      "id": "1",
+      "title": "Camapaña 1",
+      "description": "Sabias que un desarrollador se parece a un asteroide #quelocomundo",
+      "price": 75,
+      "key": "65ea"
+    }
+    
+    ]
+}

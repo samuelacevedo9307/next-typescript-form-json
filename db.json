@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Camapaña 1",
+      "description": "Sabias que un desarrollador se parece a un asteroide #quelocomundo",
+      "price": 75,
+      "key": "65ea"
+    },
+    {
+      "title": "dsfa",
+      "description": "sdfafsdfa",
+      "price": "1123",
+      "image": "fdsfafd"
+    },
+    {
+      "title": "dsfa",
+      "description": "sdfafsdfa",
+      "price": "1123",
+      "image": "fdsfafd"
+    }
+  ]
+}
